@@ -142,6 +142,7 @@ A curated collection of tools and resources for parsing and analyzing binary dat
     and [Types](http://radare.today/posts/types/).
 -   [Veles](https://codisec.com/veles/): open source tool for binary analysis
 -   [PolyFile](https://github.com/trailofbits/polyfile): identifies and maps the semantic structure of files, including polyglots. Pure-Python reimplementation of libmagic with Kaitai Struct integration and interactive hex viewer
+-   [hexsleuth](https://github.com/zzoraemon043/hexsleuth) (TypeScript): infers the layout of an unknown binary format from sample files, verifies it against every sample and emits a Kaitai Struct definition, a parser and tests. CLI and MCP server
 
 ### Network Protocol Analysis
 -   [Wireshark](https://www.wireshark.org): network protocol analyzer
